@@ -11,5 +11,8 @@ Despues, git commit -m "..."
 Finalemte, git push      
 
 # **Otra prueba**     
-Para agregar mas. **(git add .)** -> **(git commit -m "...")** -> **(git push)**      
+Para agregar mas. **(git add .)** -> **(git commit -m "...")** -> **(git push)**
+
+**DIR** -> Para ver directorio      
+
 
