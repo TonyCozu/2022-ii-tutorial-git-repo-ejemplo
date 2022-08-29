@@ -10,3 +10,6 @@ Luego, git add .
 Despues, git commit -m "..."      
 Finalemte, git push      
 
+Otra prueba     
+Para agregar mas. (git add .) -> (git commit -m "...") -> (git push)      
+
